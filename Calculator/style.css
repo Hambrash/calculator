@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    height: 100vh;
+    background-color: rgb(202, 172, 116);
+}
+
+.display{
+    height: 100px;
+   
+}
+
+.main{
+    background-color: rgba(16, 1, 24, 0.89);
+    color: #fff;
+    height: auto;
+    width: 270px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+}
+
+.btn{
+    height: auto;
+    width: 40px;
+}
